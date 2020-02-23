@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26024ab4-457d-42b8-b7bb-7ace5408a773" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/creator/abstract_factory/image.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="n#!!block;n#GetContent#0" />
+                <element signature="n#!!block;n#GetContent#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/creator/abstract_factory/reader.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="e#38#59#0" />
+                <element signature="n#!!block;n#Read#0" />
+                <element signature="e#181#218#0" />
+                <element signature="n#!!block;n#Read#1" />
+                <element signature="e#313#350#0" />
+                <element signature="e#374#394#0" />
+                <element signature="n#!!block;n#CreateFactory#0" />
+                <element signature="n#!!block;n#CreateFactory#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.12.7/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/creator/singleton/singleton.go" />
+        <option value="$PROJECT_DIR$/creator/singleton/connection/connection.go" />
+        <option value="$PROJECT_DIR$/creator/singleton/lazy_singleton/lazy_singleton.go" />
+        <option value="$PROJECT_DIR$/creator/singleton/hunger_singleton/hunger_singleton.go" />
+        <option value="$PROJECT_DIR$/creator/simple_factory/GemetricFigure/geometric_figure.go" />
+        <option value="$PROJECT_DIR$/creator/simple_factory/GeometricFigure/geometric_figure.go" />
+        <option value="$PROJECT_DIR$/creator/simple_factory/GeometricGraphics/graphics.go" />
+        <option value="$PROJECT_DIR$/creator/simple_factory/simple_factory.go" />
+        <option value="$PROJECT_DIR$/creator/abstract_factory/image.go" />
+        <option value="$PROJECT_DIR$/creator/abstract_factory/reader.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="creator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="creator" type="462c0819:PsiDirectoryNode" />
+              <item name="abstract_factory" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15140416" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2734694" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/creator/singleton/singleton.go" />
+    <entry file="file://$PROJECT_DIR$/creator/singleton/connection/connection.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <element signature="e#20#45#0" expanded="true" />
+            <element signature="n#!!block;n#Connect#0" />
+            <element signature="n#!!block;n#Disconnect#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creator/singleton/lazy_singleton/lazy_singleton.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="24" selection-start-line="24" selection-end-line="45" />
+          <folding>
+            <element signature="n#!!block;n#GetConnObj#0" />
+            <element signature="n#!!block;n#FreeConObj#0" />
+            <element signature="n#!!block;n#GetConnectionPool#0" />
+            <element signature="n#!!block;n#GetConnectionPool2#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creator/singleton/hunger_singleton/hunger_singleton.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#26#102#0" expanded="true" />
+            <element signature="n#!!block;n#init#0" />
+            <element signature="n#!!block;n#GetConnObj#0" />
+            <element signature="n#!!block;n#FreeConObj#0" />
+            <element signature="n#!!block;n#GetConnectionPool#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creator/simple_factory/simple_factory.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+          <folding>
+            <element signature="e#24#51#0" />
+            <element signature="e#45#66#0" />
+            <element signature="n#!!block;n#Draw#0" />
+            <element signature="n#!!block;n#Draw#1" />
+            <element signature="n#!!block;n#CreateFigure#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creator/simple_factory/GeometricGraphics/graphics.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!block;n#Draw#0" />
+            <element signature="n#!!block;n#Erase#0" />
+            <element signature="n#!!block;n#Draw#1" />
+            <element signature="n#!!block;n#Erase#1" />
+            <element signature="n#!!block;n#Draw#2" />
+            <element signature="n#!!block;n#Erase#2" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creator/abstract_factory/image.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="n#!!block;n#GetContent#0" />
+            <element signature="n#!!block;n#GetContent#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creator/abstract_factory/reader.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#38#59#0" />
+            <element signature="n#!!block;n#Read#0" />
+            <element signature="e#181#218#0" />
+            <element signature="n#!!block;n#Read#1" />
+            <element signature="e#313#350#0" />
+            <element signature="e#374#394#0" />
+            <element signature="n#!!block;n#CreateFactory#0" />
+            <element signature="n#!!block;n#CreateFactory#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
