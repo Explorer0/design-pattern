@@ -1,4 +1,4 @@
-package abstract_factory
+package factory_function
 
 import "fmt"
 
@@ -24,19 +24,28 @@ func (r *JPEGReader) Read(i Image) string {
 
 
 type ReaderFactory interface {
-	CreateFactory() Reader
+	CreateReader() Reader
 }
 
 
 type GIFReaderFactory struct {}
 
-func (f *GIFReaderFactory) CreateFactory() Reader {
+func (f *GIFReaderFactory) CreateReader() Reader {
 	return new(GIFReader)
 }
 
 
 type JPEGReaderFactory struct {}
 
-func (f *JPEGReaderFactory) CreateFactory() Reader {
+func (f *JPEGReaderFactory) CreateReader() Reader {
 	return new(JPEGReader)
+}
+
+
+func CreateGIFFactory() *GIFReaderFactory {
+	return &GIFReaderFactory{}
+}
+
+func CreateJPEGFactory() *JPEGReaderFactory {
+	return &JPEGReaderFactory{}
 }

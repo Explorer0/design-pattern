@@ -1,4 +1,4 @@
-package abstract_factory
+package factory_function
 
 type Image interface {
 	GetContent() string
